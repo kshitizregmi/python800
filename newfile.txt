@@ -1,0 +1,1 @@
+Append mode creates a new file if doesn't existnewfile.txt already exists append mode appends data on EOL
